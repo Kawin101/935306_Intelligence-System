@@ -1,2 +1,2 @@
-# 935306-Artificial-intelligence
-935306_Artificial intelligence
+# 935306_Intelligence-System
+935306_Intelligence-System
